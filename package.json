@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jest": "^28.0.3"
+  },
+  "name": "js-ejercicios",
+  "description": "Ejercicios de JS para principiantes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanluischaurant/js-ejercicios.git"
+  },
+  "author": "Juan Luis Chaurant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanluischaurant/js-ejercicios/issues"
+  },
+  "homepage": "https://github.com/juanluischaurant/js-ejercicios#readme"
+}
